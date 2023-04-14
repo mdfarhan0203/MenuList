@@ -1,7 +1,7 @@
 # MenuList
 
 
-#Link:  https://mdfarhan0203.github.io/MenuList/
+#Demo:  https://mdfarhan0203.github.io/MenuList/
 
 
 #Pic
